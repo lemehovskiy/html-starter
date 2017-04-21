@@ -1,0 +1,9 @@
+{% set pageName = 'contact'%}
+
+{% extends "layout.nunjucks" %}
+
+{% block content -%}
+
+    <h1>Contact page</h1>
+
+{%- endblock %}

@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "name": "Home",
+      "link": "index.html",
+      "title": "Home page",
+      "slug": "home"
+    },
+    {
+      "name": "About",
+      "link": "about.html",
+      "title": "About page",
+      "slug": "about"
+    },
+    {
+      "name": "Contact",
+      "link": "contact.html",
+      "title": "Contact page",
+      "slug": "contact"
+    }
+  ]
+}

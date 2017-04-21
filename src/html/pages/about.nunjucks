@@ -1,0 +1,9 @@
+{% set pageName = 'about'%}
+
+{% extends "layout.nunjucks" %}
+
+{% block content -%}
+
+    <h1>About page</h1>
+
+{%- endblock %}
